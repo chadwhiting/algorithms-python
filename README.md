@@ -4,7 +4,7 @@
 ### Installing a virtual env
 `virtualenv venv`
 
-Begin using virtual environment by activating it
+### Begin using virtual environment by activating it
 `source venv/bin/activate`
 
 ### Installing jupyter notebook in the virtual env
